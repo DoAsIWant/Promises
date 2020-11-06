@@ -26,4 +26,4 @@ send.addEventListener("click",()=>{
     }
 })
 
-})
+});
